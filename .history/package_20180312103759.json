@@ -1,6 +1,6 @@
 {
   "name": "leaflet.mousecoordinatesystems",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "A Coordinate Mouse Viewer for Leaflet",
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
